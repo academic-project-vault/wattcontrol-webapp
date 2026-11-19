@@ -1,4 +1,4 @@
-# WattControl — Virtual Energy Metering & Automatic Billing System
+# WattControl - Virtual Energy Metering & Automatic Billing System
 
 🌐 **Language / Bahasa:** [🇮🇩 Bahasa Indonesia](README.md) | **🇬🇧 English**
 
