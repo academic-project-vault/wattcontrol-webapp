@@ -5,7 +5,6 @@
 ---
 
 ## Tim Pengembang
-Proyek ini disusun oleh mahasiswa **Fakultas Teknologi Cerdas, Universitas Dian Nuswantoro (UDINUS)** — Semarang (2026):
 
 | Nama Anggota | NIM | Peran & Tanggung Jawab |
 | :--- | :--- | :--- |
