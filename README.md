@@ -1,8 +1,10 @@
 # WattControl - Virtual Energy Metering & Automatic Billing System
 
-![DevSecOps Security Checks](https://github.com)
-![Status](https://shields.io)
-![Stack](https://shields.io)
+<p>
+  <img src="https://shields.io" alt="Status" />
+  <img src="https://shields.io_|_Tailwind_|_Node.js_|_MariaDB-blue" alt="Stack" />
+  <img src="https://shields.io" alt="DevSecOps" />
+</p>
 
 ---
 ## Tim Pengembang
@@ -86,4 +88,4 @@ npm run dev
 ---
 
 ##  Lisensi
-Proyek ini dikembangkan untuk keperluan akademik pada mata kuliah Manajemen Proyek Teknologi Informasi (MPTI) — Universitas Dian Nuswantoro.
+Proyek ini dikembangkan untuk keperluan akademik pada mata kuliah Manajemen Proyek Teknologi Informasi (MPTI) - Universitas Dian Nuswantoro.
