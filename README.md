@@ -5,7 +5,7 @@
 ![Stack](https://shields.io)
 
 ---
-## 👥 Tim Pengembang
+## Tim Pengembang
 Proyek ini disusun oleh mahasiswa **Fakultas Teknologi Cerdas, Universitas Dian Nuswantoro (UDINUS)** — Semarang (2026):
 
 | Nama Anggota | NIM | Peran & Tanggung Jawab |
@@ -85,5 +85,5 @@ npm run dev
 
 ---
 
-## 📄 Lisensi
+##  Lisensi
 Proyek ini dikembangkan untuk keperluan akademik pada mata kuliah Manajemen Proyek Teknologi Informasi (MPTI) — Universitas Dian Nuswantoro.
