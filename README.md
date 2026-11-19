@@ -1,5 +1,9 @@
 # WattControl - Virtual Energy Metering & Automatic Billing System
 
+🌐 **Bahasa / Language:** **🇮🇩 Bahasa Indonesia** | [🇬🇧 English](README.en.md)
+
+---
+
 ## Tim Pengembang
 Proyek ini disusun oleh mahasiswa **Fakultas Teknologi Cerdas, Universitas Dian Nuswantoro (UDINUS)** — Semarang (2026):
 
@@ -10,6 +14,7 @@ Proyek ini disusun oleh mahasiswa **Fakultas Teknologi Cerdas, Universitas Dian 
 | **Yonazahran Yoga Meinendra Rizky** | A11.2024.15673 | Backend Developer & DevSecOps |
 
 ---
+
 ## Latar Belakang & Solusi
 Pada rumah kos dengan sistem sewa *all-in* dan daya terpasang terbatas (2.200 VA), penggunaan perangkat berdaya besar yang tidak dilaporkan (seperti panci listrik, *magicom*, teko pemanas air, dan setrika) sering memicu tagihan PLN melonjak dan MCB pusat *trip*.
 
@@ -80,5 +85,5 @@ npm run dev
 
 ---
 
-##  Lisensi
-Proyek ini dikembangkan untuk keperluan akademik pada mata kuliah Manajemen Proyek Teknologi Informasi (MPTI) - Universitas Dian Nuswantoro.
+## Lisensi
+Proyek ini dikembangkan untuk keperluan akademik pada mata kuliah Manajemen Proyek Teknologi Informasi (MPTI) — Universitas Dian Nuswantoro.
