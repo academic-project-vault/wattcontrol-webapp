@@ -1,6 +1,5 @@
 # WattControl - Virtual Energy Metering & Automatic Billing System
 
----
 ## Tim Pengembang
 Proyek ini disusun oleh mahasiswa **Fakultas Teknologi Cerdas, Universitas Dian Nuswantoro (UDINUS)** — Semarang (2026):
 
