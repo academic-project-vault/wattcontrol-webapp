@@ -86,4 +86,4 @@ npm run dev
 ---
 
 ## Lisensi
-Proyek ini dikembangkan untuk keperluan akademik pada mata kuliah Manajemen Proyek Teknologi Informasi (MPTI) — Universitas Dian Nuswantoro.
+Proyek ini dikembangkan untuk keperluan akademik pada mata kuliah Manajemen Proyek Teknologi Informasi (MPTI) - Universitas Dian Nuswantoro.
