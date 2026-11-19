@@ -1,10 +1,9 @@
 # WattControl - Virtual Energy Metering & Automatic Billing System
 
-<p>
-  <img src="https://shields.io" alt="Status" />
-  <img src="https://shields.io" alt="Stack" />
-  <img src="https://shields.io" alt="DevSecOps" />
-</p>
+![Status](https://badgen.net)
+![Stack](https://badgen.net)
+![DevSecOps](https://badgen.net)
+
 
 ---
 ## Tim Pengembang
