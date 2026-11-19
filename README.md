@@ -2,7 +2,7 @@
 
 <p>
   <img src="https://shields.io" alt="Status" />
-  <img src="https://shields.io_|_Tailwind_|_Node.js_|_MariaDB-blue" alt="Stack" />
+  <img src="https://shields.io" alt="Stack" />
   <img src="https://shields.io" alt="DevSecOps" />
 </p>
 
