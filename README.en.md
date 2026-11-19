@@ -86,4 +86,4 @@ npm run dev
 ---
 
 ## License
-This project is developed for academic purposes under the Information Technology Project Management (MPTI) course — Universitas Dian Nuswantoro.
+This project is developed for academic purposes under the Information Technology Project Management course - Universitas Dian Nuswantoro.
