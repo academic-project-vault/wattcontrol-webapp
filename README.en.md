@@ -5,7 +5,6 @@
 ---
 
 ## Development Team
-This project is developed by students of the **Faculty of Intelligent Technology, Universitas Dian Nuswantoro (UDINUS)** — Semarang, Indonesia (2026):
 
 | Team Member | Student ID (NIM) | Role & Responsibilities |
 | :--- | :--- | :--- |
