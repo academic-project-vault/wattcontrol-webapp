@@ -7,7 +7,7 @@ Proyek ini disusun oleh mahasiswa **Fakultas Teknologi Cerdas, Universitas Dian 
 | :--- | :--- | :--- |
 | **Noval Fitriadi** | A11.2024.15659 | Project Manager & UI/UX Designer |
 | **Baraza Nandian Syah** | A11.2024.15640 | System Analyst & Frontend Developer |
-| **Yonazahran Yoga Meinendra Rizky** | A11.2024.15673* | Backend Developer & DevSecOps |
+| **Yonazahran Yoga Meinendra Rizky** | A11.2024.15673 | Backend Developer & DevSecOps |
 
 ---
 ## Latar Belakang & Solusi
