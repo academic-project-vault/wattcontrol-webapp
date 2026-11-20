@@ -17,7 +17,7 @@
 ## Background & Solution
 In boarding houses (*kos*) operating on an all-inclusive rent model with limited electrical capacity (2,200 VA), unreported high-wattage appliances (such as electric pots, rice cookers, electric kettles, and irons) often cause sudden PLN bill surges and main circuit breaker (MCB) trips.
 
-**WattControl** solves this issue using a **software-only Virtual Energy Metering** approach—eliminating the high cost of physical IoT smart meters—through:
+**WattControl** solves this issue using a **software-only Virtual Energy Metering** approach—eliminating the high cost of physical IoT smart meters through:
 * **Fair Room Quota:** Standardized monthly electricity allowance of **100 kWh per room**.
 * **Monthly Batch Meter Input:** Collective recording of physical kWh meter readings at the end of each month by the boarding house administrator.
 * **Automated Calculation Engine:** Instant computation of usage, excess kWh, and penalty fees.
