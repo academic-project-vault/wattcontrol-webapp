@@ -15,6 +15,7 @@ import {
   Menu,
   X,
   Gauge,
+  LogOut,
 } from "lucide-react";
 import { useEnergy } from "@/context/EnergyContext";
 
@@ -135,6 +136,14 @@ export default function Shell({ children }: { children: React.ReactNode }) {
           <p className="text-[11px] text-gray-400 mt-0.5 font-mono">
             Tarif: Rp {settings.tariffPerKwh.toLocaleString("id-ID")}/kWh
           </p>
+
+          <Link
+            href="/login"
+            className="mt-3 flex items-center justify-center gap-2 w-full py-2 px-3 text-xs font-semibold text-gray-300 hover:text-white bg-white/5 hover:bg-white/10 rounded-lg transition"
+          >
+            <LogOut size={14} />
+            <span>Keluar (Logout)</span>
+          </Link>
         </div>
       </aside>
 
@@ -194,6 +203,13 @@ export default function Shell({ children }: { children: React.ReactNode }) {
               <div className="w-10 h-10 rounded-full bg-[#353A3E] text-white font-bold text-sm flex items-center justify-center shadow flex-shrink-0">
                 IK
               </div>
+              <Link
+                href="/login"
+                className="p-2 text-gray-600 hover:text-red-600 hover:bg-black/5 rounded-xl transition"
+                title="Keluar / Logout"
+              >
+                <LogOut size={18} />
+              </Link>
             </div>
           </div>
         </header>
